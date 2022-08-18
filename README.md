@@ -1,3 +1,6 @@
+# Fixup Fork
+This is a fixup fork for what seems to be inactive npm package. This fork is intended to bump typescript version used in monaco editor.
+
 # Monaco Editor Component for Angular 2 and above.
 
  - Angular <= 4: v3.x.x
